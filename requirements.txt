@@ -1,5 +1,9 @@
-playwright==1.48.0
-pandas==2.2.0
-beautifulsoup4==4.12.3
-requests==2.31.0
-python-dotenv==1.0.0
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.17.0
+matplotlib>=3.7.0
+pillow>=10.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+playwright>=1.40.0
+numpy>=1.24.0
