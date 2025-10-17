@@ -22,7 +22,7 @@ CONSOLE = "common-gen5"
 CLUB_ID = "58805"
 
 # Player names
-PLAYER_NAMES = ['MrBazzzz', 'Mcapp_1', 'TwoInchTommy565', 'NYKings06', 'Slick__AV']
+PLAYER_NAMES = ['MrBazzzz', 'Mcapp_1', 'TwoInchTommy565', 'NYKings06', 'Slick__AV', 'Matty__Ice__4']
 
 # API endpoints
 API_BASE_URL = "https://chelstats.app/api"
