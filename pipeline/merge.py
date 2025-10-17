@@ -42,7 +42,7 @@ def merge_stats():
         suffixes=('', '_adv')
     )
     
-    df_merged = df_merged[df_merged['player_name'].isin(['Mcapp_1', 'TwoInchTommy565', 'NYKings06', 'MrBazzzz', 'Slick__AV'])]
+    df_merged = df_merged[df_merged['player_name'].isin(['Mcapp_1', 'TwoInchTommy565', 'NYKings06', 'MrBazzzz', 'Slick__AV', 'Matty__Ice__4'])]
     
     # Drop duplicate scraped_at column
     if 'scraped_at_adv' in df_merged.columns:
